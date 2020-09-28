@@ -1,2 +1,2 @@
 # msahmed.github.io
-Muddasar's repo for MIT course
+Muddasar's repo for MIT course website
